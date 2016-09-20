@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<allTags>
+  <tabs HDD="1">
+    <addHour>0</addHour>
+    <capacityLowToSend>99 GB</capacityLowToSend>
+    <checkLogicalDisks>C:\;</checkLogicalDisks>
+    <isAutoInitHDD>0</isAutoInitHDD>
+    <timePause>00006000 ms</timePause>
+    <timeToSendSMS>20:00</timeToSendSMS>
+    <useCheckLowCapacity>1</useCheckLowCapacity>
+    <useTimeToSend>1</useTimeToSend>
+  </tabs>
+  <tabs Modem="1">
+    <isAutoInitModem>0</isAutoInitModem>
+  </tabs>
+  <tabs Gateway="1">
+    <linkSMSru>http://sms.ru/sms/send?api_id=&amp;to=&amp;text=hello+world</linkSMSru>
+    <mailFromSend>@gmail.com</mailFromSend>
+    <mailPWDFromSend>xxxx</mailPWDFromSend>
+  </tabs>
+</allTags>
